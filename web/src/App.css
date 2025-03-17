@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.nav-link:hover {
+  background-color: #3a3f47 !important; /* Darker background on hover */
+  cursor: pointer;
+}
